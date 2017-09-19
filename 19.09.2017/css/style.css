@@ -1,0 +1,27 @@
+body {
+  font-family: 'Raleway', sans-serif; }
+  body .light {
+    background-color: #8dbf41;
+    color: white;
+    font-size: 35px;
+    border: 1px solid #8dbf41;
+    border-radius: 100%;
+    padding: 19px 27px; }
+  body .slider {
+    position: relative; }
+  body .prev {
+    position: absolute;
+    bottom: -422px;
+    left: -82px; }
+  body .next {
+    position: absolute;
+    bottom: -422px;
+    right: -82px; }
+  body .fa {
+    font-size: 25px; }
+  body .camera_caption {
+    position: absolute;
+    left: 100px;
+    top: 100px; }
+
+/*# sourceMappingURL=style.css.map */

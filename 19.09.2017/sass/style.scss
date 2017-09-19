@@ -1,0 +1,38 @@
+$primary-color:#8dbf41;
+body{
+    font-family: 'Raleway', sans-serif;
+ 
+.light{
+    background-color: $primary-color;
+    color:white;
+    font-size:35px;
+border:1px solid $primary-color;
+border-radius:100%;
+padding:19px 27px;
+}
+.slider{
+    position: relative;
+
+}
+.prev{
+    position: absolute;
+    bottom: -422px;
+    left: -82px;
+}
+.next{
+    position: absolute;
+    bottom: -422px;
+    right: -82px;
+}
+.fa{
+    font-size: 25px;
+}
+.carousel-item{
+    // position: relative;
+}
+.camera_caption {
+    position: absolute;
+    left: 100px;
+    top:100px;
+}
+}
